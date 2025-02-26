@@ -3,7 +3,6 @@ WelcomeText = \
 Hi **%(first_name)s**, send me a file to instantly generate file links.
 
 **Commands:**
-/privacy - View bot's privacy policy.
 /log - Get bot's log file. (owner only)
 /help - Show this message.
 """
