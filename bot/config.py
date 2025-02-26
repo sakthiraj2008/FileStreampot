@@ -12,7 +12,7 @@ class Telegram:
 
 class Server:
     BASE_URL = env.get("BASE_URL", "http://127.0.0.1:8080")
-    BIND_ADDRESS = env.get("BIND_ADDRESS", "0.0.0.0")
+    BIND_ADDRESS = env.get("BIND_ADDRESS", "various-andrei-ourorgxxyyzz-0d4205e5.koyeb.app/")
     PORT = int(env.get("PORT", 8080))
 
 # LOGGING CONFIGURATION
